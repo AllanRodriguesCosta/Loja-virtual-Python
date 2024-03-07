@@ -1,0 +1,3 @@
+pydantic==3.4.2
+pytest==7.4.3
+pyteste-asyncio==0.21.1
